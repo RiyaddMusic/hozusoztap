@@ -20,13 +20,13 @@ keyboard = InlineKeyboardMarkup([
         InlineKeyboardButton("📢 Rəsmi Kanal ", url="https://t.me/RiyaddBlogg")
     ],
     [
-        InlineKeyboardButton("💬 Söhbət Qrupu", url="https://t.me/KarabakhTeamm")  
+        InlineKeyboardButton("💬 Söhbət Qrupu", url="https://t.me/Bestgrands1")  
     ]
 ])
 
 
 START = """
-**👋 Salam. Mən 𝕏𝔸𝕆𝕊 𝔾𝔸𝕄𝔼**
+**👋 Salam. Mən Söz Tap Botuyam**
 
 **⚡ Mən Qruplar üçün yaradılmış Rəsmi Oyun Botuyam**
 **📌 Bu Bot İlə Qrupda Vaxtınızı Maraqlı Keçirə Bilərsiniz**
@@ -40,7 +40,7 @@ HELP = """
 
 ➪ /oyna - Yeni Oyuna Başla
 ➪  /kec - Sözü Dəyiş
-➪ /dayan - Oyunu Dayandır
+➪ /cancel - Oyunu Dayandır
 ➪  /top - Bütün Qruplar Üzrə Oyunçuların Xalları
 """
 
